@@ -1,3 +1,8 @@
+# Test assessment completed
+
+Api available at http://localhost:3000/api/cars
+
+
 # Introduction
 
 We want to build a car market platform and provide a personalized selection of cars to our users. There are few main models:
